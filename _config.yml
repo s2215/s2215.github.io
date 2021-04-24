@@ -6,8 +6,10 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+        #  primary-dark: '#000000'
+  primary-dark: '#45a8b1'
+  # links: '#219ab3'
+  links: '#d7c843'
 
 # Footer settings
 footer: Your Website
